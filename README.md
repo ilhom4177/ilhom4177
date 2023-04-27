@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![ilhommamatqulov's github stats](https://github-readme-stats.vercel.app/api?username=ilhom&show_icons=true&theme=tokyonight)
+![ilhommamatqulov's github stats](https://github-readme-stats.vercel.app/api?username=ilhomjon&show_icons=true&theme=tokyonight)
 
 [![CodeWars](https://www.codewars.com/users/ilhom4177/badges/large)]([https://www.codewars.com/users/ilhom4177(https://www.codewars.com/users/ilhom4177))
 
